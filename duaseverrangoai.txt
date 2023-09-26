@@ -1,1 +1,1 @@
- http-server [path] [options]
+http-server --proxy http://localhost:8080
